@@ -1,5 +1,5 @@
-from Korea.
-age: 2011
+
+born in 2011
 BOJ online judge: troyeagles
 
 Thank you.
